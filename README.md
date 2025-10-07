@@ -29,6 +29,23 @@ These cover the essential building blocks for linear algebra computations.
 
 ---
 
+---
+
+## 🎯 Main Goal
+
+The **main aim** of this project is to eventually develop a **full-featured C++ linear algebra library**.  
+This includes not only basic operations like addition, subtraction, and multiplication, but also advanced functionalities such as:
+
+- Determinants and matrix inverses  
+- Transpose and adjoint operations  
+- Eigenvalues and eigenvectors  
+- LU, QR, and SVD decompositions  
+- Efficient memory management and performance optimizations  
+- Vector operations and system solvers  
+
+The library is being built step by step, with a strong focus on **understanding the underlying algorithms** and providing a solid foundation for future enhancements.
+
+
 ## 🧪 How to Build & Run
 
 To compile and run:
@@ -47,4 +64,3 @@ g++ -std=c++17 TestCode.cpp -o matrix_exec
 
 ---
 
-Would you like me to make this a bit more **formal and professional** (like a mini-library README) or keep this **learning-project tone**?
